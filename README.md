@@ -10,7 +10,7 @@ Landing Page Link: file:///Users/jeangwon/Desktop/jeangwonhomeworkweek8_HTML/Ins
 
 Comparison Page Link: file:///Users/jeangwon/Desktop/jeangwonhomeworkweek8_HTML/Instructions/comparison.html
 
-Windspeed Page Link: file:///Users/jeangwon/Desktop/jeangwonhomeworkweek8_HTML/Instructions/visualizations/windspeed.html 
+Windspeed Page Link: file:///Users/jeangwon/Desktop/jeangwonhomeworkweek8_HTML/Instructions/visualizations/windspeed.html
 
 Temperature Page Link: file:///Users/jeangwon/Desktop/jeangwonhomeworkweek8_HTML/Instructions/visualizations/temp.html
 
